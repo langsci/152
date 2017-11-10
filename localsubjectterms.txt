@@ -1,0 +1,183 @@
+adverb
+agentive
+aorist
+applicative
+atelic
+auxiliary
+benefactive
+causative
+clitic
+coalescence
+collexemes
+comitative
+completive
+conjugation
+continuative
+copula
+dative
+deictic
+demonstrative
+demonstratives
+derivation
+directionality
+distal
+distinctions
+enclitic
+equative
+ergative
+extrafocal
+formatives
+gerund
+imperfective
+incompletive
+inferential
+infinitive
+inflectional
+intransitive
+locative
+modal
+nominative
+obligative
+ostensive
+participle
+participles
+perfective
+periphrastic
+positional
+possessive
+possessor
+predicate
+predicates
+predication
+predicative
+predicator
+prefixation
+preposition
+preverbation
+preverbs
+proprietive
+proximal
+stative
+subjunctive
+suffixation
+telic
+telicity
+tense
+transitive
+transitivity
+action noun
+applicative extension
+areal variation
+aspect opposition
+aspect system
+aspectual character
+aspectual system
+auxiliary construction
+auxiliary function
+auxiliary position
+case marker
+classificatory aspect
+clause-initial position
+comitative adverb
+complement clause
+completive aspect
+completive status
+future tense
+constructional format
+continuative aspect
+continuative marker
+dative agent
+de-andative future
+definite article
+definite past
+deictic particle
+deictic stem
+demonstrative pronoun
+dependent status
+derivational pattern
+derivative morpheme
+de-venitive future
+dialect continuum
+direct object
+discontinuous auxiliary
+discursive particle
+distal form
+equative copula
+equative predication
+ergative
+finite verb
+focus construction
+focus position
+future construction
+future marker
+future meaning
+future tense
+grammaticalization path
+grammaticalization process
+grammaticalization theory
+illocutionary force
+immediate future
+imperative
+imperfective aspect
+indirect object
+instrumental agent
+intransitive subject
+intransitive verb
+language contact
+language family
+lexical aspect
+main clause
+matrix verb
+motion-cum-purpose construction
+motion verb
+movement verb
+nasal infix
+nasal suffix
+nominalized clause
+nominalized verb
+nominal sentence
+nominative agent
+nominative subject
+oblique agent
+passive participle
+past participle
+past tense
+perfective aspect
+phase verb
+plain copula
+polar question
+positional auxiliary
+possessor prefix
+predicative marker
+progressive aspect
+progressive auxiliary
+progressive construction
+progressive meaning
+root ablaut
+root vowel
+secondary imperfectivization
+serial verb
+sigmatic future
+simple past
+simplex stem
+source construction
+status suffix
+stem derivation
+subordinate clause
+komma att-future
+tense marker
+thematic vowel
+transitive verb
+verbal adjective
+verbal noun
+verb serialization
+word order 
+
+classificatory aspect system
+aspect marking function
+serial verb construction
+present tense stem
+past passive participle
+passive past participle
+past tense marker
+nominalized verbal complex
